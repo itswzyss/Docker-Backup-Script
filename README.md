@@ -52,12 +52,12 @@ Note that this is only useful if you run everything in Docker with Docker Compos
 
 1. Make the script executable:
    ```
-   chmod +x backup_script.sh
+   chmod +x backup.sh
    ```
 
 2. Run the script:
    ```
-   ./backup_script.sh
+   ./backup.sh
    ```
 
 ### Output
