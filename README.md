@@ -4,6 +4,8 @@ This script is designed to simplify the process of backing up multiple services.
 
 Note that this is only useful if you run everything in Docker with Docker Compose. This won't work at all if you do not use Docker Compose.
 
+If you think there's a better way to do something or add support for X thing, feel free to submit a pull request.
+
 ## Features
 
 - Backup multiple services / containers with specified directories.
